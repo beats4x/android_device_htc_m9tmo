@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "Hima-Dev/android_device_htc_m9-common",
+    "revision": "cm-12.1",
+    "target_path": "device/htc/m9-common"
+  }
+  {
+    "remote": "github",
+    "repository": "Hima-Dev/android_kernel_htc_msm8994",
+    "revision": "cm-12.1",
+    "target_path": "device/htc/msm8994"
+  }
+]
